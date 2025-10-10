@@ -73,7 +73,7 @@ Olist is a Brazilian marketplace connecting small businesses with customers. Thi
 ### Database Setup
 1. Create PostgreSQL database: `dw`
 2. Run schema creation: `Database/schema_creation.sql`
-3. Configure connection in `.env` file
+3. Configure connection in `.env` file (see Analytics Setup step 2)
 
 ### ETL Execution
 1. Open Pentaho Spoon
@@ -88,7 +88,7 @@ Olist is a Brazilian marketplace connecting small businesses with customers. Thi
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn pulp sqlalchemy python-dotenv
    ```
-2. Configure database connection in `Analytics/.env`
+2. Create .env file and configure database connection in `Analytics/.env`
     ```
     # Database Configuration
     DB_URL=postgresql+psycopg2://your_username:your_password@localhost:5432/your_database
