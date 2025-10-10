@@ -152,4 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built as part of BID3000 Business Intelligence course - showcasing professional data engineering and analytics skills.*
+*Built as part of a Business Intelligence University course - showcasing professional data engineering and analytics skills.*
