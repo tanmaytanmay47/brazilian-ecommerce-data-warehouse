@@ -113,7 +113,7 @@ Olist is a Brazilian marketplace connecting small businesses with customers. Thi
 ## 📁 Repository Structure
 
 ```
-├── Database/           # SQL schema and analytical queries
+├── Database/          # SQL schema and analytical queries
 ├── ETL/               # Pentaho transformations and jobs
 ├── Analytics/         # Jupyter notebooks and Python scripts
 ├── Dashboard/         # PowerBI files and CSV exports
