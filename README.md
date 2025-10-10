@@ -68,6 +68,7 @@ Olist is a Brazilian marketplace connecting small businesses with customers. Thi
     ```
     https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
     ```
+    - Download as a zip and extract the CSV's for later use
 
 ### Database Setup
 1. Create PostgreSQL database: `dw`
@@ -145,9 +146,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Olist for providing the dataset
 - Professor Peyman Teymoori for guidance and feedback
 - Team members for collaboration
+- Olist for providing the dataset through kaggle.com
 
 ---
 
