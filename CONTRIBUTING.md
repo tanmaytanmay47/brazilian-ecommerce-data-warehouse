@@ -82,7 +82,6 @@ docs: update installation instructions
 
 For questions or suggestions:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
 
 ## 📄 License
 
