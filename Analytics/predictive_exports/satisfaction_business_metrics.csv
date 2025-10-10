@@ -1,0 +1,11 @@
+Metric,Value
+Total_Reviews_Analyzed,104650
+High_Satisfaction_Rate,77.8%
+Average_Review_Score,4.11
+Average_Delivery_Days,12.4
+Average_Delay_Days,-11.9
+On_Time_Delivery_Rate,93.4%
+Model_Accuracy,71.2%
+Model_Precision,85.7%
+Model_Recall,75.6%
+Cross_Validation_Score,72.1% ± 0.9%

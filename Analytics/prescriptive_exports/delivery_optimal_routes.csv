@@ -1,0 +1,8 @@
+warehouse,destination,shipments,unit_cost,total_cost,route_id,route_type,avg_delivery_time,avg_freight_cost,satisfaction_rate,on_time_rate
+Center-West,Center-West,1892.0,0.24296972432946995,459.6987184313571,Center-West_to_Center-West,Same Region,9.08,15.08,0.84,0.96
+Northeast,Northeast,2015.0,0.361282643257407,727.9845261636751,Northeast_to_Northeast,Same Region,13.9,21.41,0.82,0.91
+South,South,15917.0,0.295263790886876,4699.7137595464055,South_to_South,Same Region,10.71,19.15,0.83,0.96
+Southeast,Center-West,4620.0,0.38260389903530034,1767.6300135430877,Southeast_to_Center-West,Cross Region,15.06,21.81,0.74,0.93
+Southeast,North,2024.0,0.5914860496383604,1197.1677644680415,Southeast_to_North,Cross Region,22.62,35.4,0.72,0.91
+Southeast,Northeast,8101.0,0.5221049442083673,4229.572153031983,Southeast_to_Northeast,Cross Region,19.95,31.29,0.71,0.87
+Southeast,Southeast,75987.0,0.2700263943001266,20518.49562368372,Southeast_to_Southeast,Same Region,10.26,16.33,0.76,0.94

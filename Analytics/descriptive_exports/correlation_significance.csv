@@ -1,0 +1,5 @@
+Variable_1,Variable_2,Correlation,P_Value,Significance
+monthly_revenue,total_orders,0.9964191468726057,4.205751057068485e-25,Significant
+monthly_revenue,unique_customers,0.9964191468726057,4.205751057068485e-25,Significant
+monthly_revenue,avg_order_value,0.32204091482371794,0.12486546061897866,Not Significant
+revenue_per_customer,revenue_per_order,1.0,0.0,Significant

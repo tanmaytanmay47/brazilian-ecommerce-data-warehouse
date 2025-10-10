@@ -1,0 +1,11 @@
+Metric,Value
+Optimal_Total_Cost,33600.26255886827
+Current_Total_Cost,36252.581678969946
+Cost_Savings,2652.3191201016743
+Savings_Percentage,7.316221348286154
+Total_Shipments,110556.0
+Same_Region_Shipments,95811.0
+Cross_Region_Shipments,14745.0
+Same_Region_Percentage,86.66286768696408
+Number_of_Active_Routes,7.0
+Average_Route_Cost,0.38081963509370104

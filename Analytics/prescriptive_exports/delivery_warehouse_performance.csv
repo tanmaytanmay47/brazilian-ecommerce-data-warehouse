@@ -1,0 +1,5 @@
+shipments,total_cost,capacity,utilization_rate,avg_cost_per_shipment,warehouse_region,performance_rating
+1892.0,459.7,1892,1.0,0.2429704016913319,Center-West,Good
+2015.0,727.98,2015,1.0,0.3612803970223325,Northeast,Good
+15917.0,4699.71,17616,0.9035535876475931,0.29526355468995413,South,Good
+90732.0,27712.87,111113,0.8165741182399899,0.3054365604196976,Southeast,Excellent

@@ -1,0 +1,9 @@
+Metric,Value,Description
+True_Negatives,1298.0,Correctly predicted low satisfaction
+False_Positives,1026.0,"Predicted high, actually low"
+False_Negatives,1984.0,"Predicted low, actually high"
+True_Positives,6157.0,Correctly predicted high satisfaction
+True_Positive_Rate,0.7562952954182532,Sensitivity
+True_Negative_Rate,0.5585197934595525,Specificity
+Precision,0.8571627453710149,Positive predictive value
+Recall,0.7562952954182532,Sensitivity
