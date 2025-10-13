@@ -43,7 +43,7 @@ Olist is a Brazilian marketplace connecting small businesses with customers. Thi
 ### Resources & Links
 - **Dataset**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
 - **Contributors**: [Lidor Shachar](https://github.com/lidizz), [Andreas Moen](https://github.com/Moen01), [Lars Andreas Strand](https://github.com/Lars263506)
-- **Professor**: [Peyman Teymoori](https://www.linkedin.com/in/peyman-teymoori-16a68424/) (example LinkedIn link; replace if you have a better one)
+- **Professor**: [Peyman Teymoori](https://www.linkedin.com/in/peyman-teymoori-16a68424/)
 
 ## 📈 Key Insights
 
