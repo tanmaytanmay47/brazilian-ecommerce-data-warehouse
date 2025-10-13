@@ -47,7 +47,7 @@ Olist is a Brazilian marketplace connecting small businesses with customers. Thi
 
 ## 📈 Key Insights
 
-Based on the analysis of the Olist dataset, here are key answers to business questions derived from descriptive, predictive, and prescriptive analytics:
+Key answers to business questions derived from our descriptive, predictive, and prescriptive analytics:
 
 ### Descriptive Analytics
 - **Revenue Trends and Seasonal Patterns**: Total revenue peaked in November 2017 ($1.18M), with Q4 showing the highest seasonal performance. Average order value ranges from $130-170, with consistent monthly growth patterns.
