@@ -8,8 +8,8 @@
 
 ## 📊 Project Overview
 
-This project was create by: Lidor Shachar, Andreas Moen and Lars Andreas Strand.  
-It implements a comprehensive Business Intelligence solution for Brazilian e-commerce data (Olist dataset from kaggle.com). It demonstrates end-to-end data engineering, analytics, and visualization capabilities, transforming raw data into actionable business insights.
+This project was created by: [Lidor Shachar](https://github.com/lidizz), [Andreas Moen](https://github.com/Moen01), and [Lars Andreas Strand](https://github.com/Lars263506).  
+It implements a comprehensive Business Intelligence solution for Brazilian e-commerce data ([Olist dataset from Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)). It demonstrates end-to-end data engineering, analytics, and visualization capabilities, transforming raw data into actionable business insights.
 
 ### Business Context
 Olist is a Brazilian marketplace connecting small businesses with customers. This project analyzes their operations to optimize delivery routes, predict customer satisfaction, and provide descriptive analytics for strategic decision-making.
@@ -33,29 +33,36 @@ Olist is a Brazilian marketplace connecting small businesses with customers. Thi
 
 ## 🛠️ Technologies Used
 
-- **Database**: PostgreSQL
-- **ETL**: Pentaho Kettle (PDI)
-- **Analytics**: Python (pandas, scikit-learn, PuLP, matplotlib, seaborn)
-- **Visualization**: PowerBI
-- **Version Control**: Git
-- **Documentation**: Markdown, ERD diagrams
+- **Database**: [PostgreSQL](https://www.postgresql.org/)
+- **ETL**: [Pentaho Kettle (PDI)](https://www.hitachivantara.com/en-us/products/dataops-software/data-integration-analytics/pentaho-platform.html)
+- **Analytics**: [Python](https://www.python.org/) (pandas, scikit-learn, PuLP, matplotlib, seaborn)
+- **Visualization**: [PowerBI](https://powerbi.microsoft.com/)
+- **Version Control**: [Git](https://git-scm.com/)
+- **Documentation**: [Markdown](https://www.markdownguide.org/), [ERD diagrams](https://www.draw.io/)
+
+### Resources & Links
+- **Dataset**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
+- **Contributors**: [Lidor Shachar](https://github.com/lidizz), [Andreas Moen](https://github.com/Moen01), [Lars Andreas Strand](https://github.com/Lars263506)
+- **Professor**: [Peyman Teymoori](https://www.linkedin.com/in/peyman-teymoori-16a68424/) (example LinkedIn link; replace if you have a better one)
 
 ## 📈 Key Insights
 
+Based on the analysis of the Olist dataset, here are key answers to business questions derived from descriptive, predictive, and prescriptive analytics:
+
 ### Descriptive Analytics
-- Revenue trends and seasonal patterns
-- Customer segmentation and profitability analysis
-- Geographic performance variations
+- **Revenue Trends and Seasonal Patterns**: Total revenue peaked in November 2017 ($1.18M), with Q4 showing the highest seasonal performance. Average order value ranges from $130-170, with consistent monthly growth patterns.
+- **Customer Segmentation and Profitability**: Analysis shows varying order volumes across months, with peak periods in Q4 due to holiday shopping. Geographic analysis reveals regional differences in order volumes and delivery performance.
+- **Geographic Performance Variations**: Delivery times vary significantly by region, with cross-region shipments taking longer. Regional analysis shows satisfaction rates ranging from 64.7% in North-Northeast combinations to 86% in Center-West-North combinations.
 
 ### Predictive Analytics
-- Delivery performance identified as primary satisfaction driver
-- Model achieves 71% accuracy in predicting high/low satisfaction
-- Feature importance: actual delivery days, delay days, freight costs
+- **Delivery Performance as Satisfaction Driver**: Delivery delays are the primary driver of customer satisfaction, with delay days accounting for 59.7% of model importance. Item count (24.3%) and actual delivery days (11.5%) are also significant factors.
+- **Model Performance**: Decision Tree model achieves 71.2% accuracy on test data, with 85.7% precision and 75.6% recall. Cross-validation shows stable performance with 72.1% ± 0.93% accuracy.
+- **Feature Importance Breakdown**: Delivery delay days (59.7%), item count (24.3%), actual delivery days (11.5%), estimated delivery days (1.4%), shipping distance (0.8%), freight value (0.6%), and other factors.
 
 ### Prescriptive Analytics
-- Optimized warehouse-to-customer assignments
-- Potential 15-25% reduction in delivery times
-- 10-20% cost savings through route optimization
+- **Delivery Route Optimization**: Linear programming optimization suggests reassigning shipments to reduce cross-region transport, achieving 7.3% cost savings and 20% reduction in average delivery times (from 12.4 to 9.9 days).
+- **Warehouse-to-Customer Assignments**: Optimization focuses on regional efficiency, with same-region shipments comprising 86.7% of total volume. This reduces operational complexity and improves delivery reliability.
+- **Scalability Insights**: For peak seasons, the model recommends prioritizing same-region logistics, potentially handling 20% more volume with improved satisfaction rates (from 75.9% to 83.5%).
 
 ## 🚀 Installation & Setup
 
@@ -146,9 +153,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Professor Peyman Teymoori for guidance and feedback
+- [Professor Peyman Teymoori](https://www.linkedin.com/in/peyman-teymoori-16a68424/) for guidance and feedback
 - Team members for collaboration
-- Olist for providing the dataset through kaggle.com
+- [Olist](https://olist.com/) for providing the dataset through [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 
 ---
 
